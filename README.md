@@ -12,7 +12,7 @@ This repository is for recording Deep Learning paper studies with code reviews.
 ### Time Series
 |Paper|blog|code|
 |----|----|----|
-|Informer: Beyond Efficient Transformer for Long SequenceTime-Series Forecasting|[tistory](https://song9ski-program.tistory.com/entry/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-Informer-Beyond-Efficient-Transformer-for-Long-SequenceTime-Series-Forecasting)|-|
+|[Informer: Beyond Efficient Transformer for Long SequenceTime-Series Forecasting](https://arxiv.org/abs/2012.07436)|[tistory](https://song9ski-program.tistory.com/entry/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-Informer-Beyond-Efficient-Transformer-for-Long-SequenceTime-Series-Forecasting)|-|
 
 # 📰References
 - [Top 10 Natural Language Processing (NLP) Research Papers For Beginners](https://medium.com/@neri.vvo/top-10-natural-language-processing-nlp-research-papers-for-beginners-79c1dd200e5e)
