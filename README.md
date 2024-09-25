@@ -6,7 +6,7 @@ This repository is for recording Deep Learning paper studies with code reviews.
 ### NLP
 |Paper|blog|code|
 |----|----|----|
-|[Attention is all you need](https://arxiv.org/abs/1706.03762)|[tistory](https://song9ski-program.tistory.com/entry/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-Attention-is-all-you-need)|[Code Review](https://github.com/skier-song9/DL_study/blob/master/codes/nlp/Attention_is_all_you_need_(ko_en).ipynb)|
+|[Attention is all you need](https://arxiv.org/abs/1706.03762)|[tistory](https://song9ski-program.tistory.com/entry/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-Attention-is-all-you-need)| [tistory](https://song9ski-program.tistory.com/entry/%EB%85%BC%EB%AC%B8%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0-Attention-is-all-you-need-code), [Code Review](https://github.com/skier-song9/DL_study/blob/master/codes/nlp/Attention_is_all_you_need_(ko_en).ipynb)|
 |[BERT: Pre-training of Deep Bidirectional Transformers forLanguage Understanding](https://arxiv.org/abs/1810.04805)|[tistory](https://song9ski-program.tistory.com/entry/%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0-BERT-Pre-training-of-Deep-Bidirectional-Transformers-forLanguage-Understanding)|-|
 |[Text clustering with LLM embeddings](https://arxiv.org/abs/2403.15112)|[tistory](https://song9ski-program.tistory.com/entry/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-Text-clustering-with-LLM-embeddings)|-|
 |[G-EVAL: NLG Evaluation using GPT-4 with Better Human Alignment](https://arxiv.org/abs/2303.16634)|[tistory](https://song9ski-program.tistory.com/entry/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-G-EVAL-NLG-Evaluation-using-GPT-4-with-Better-Human-Alignment)|[프로젝트 코드](https://github.com/skier-song9/bitamin_auto_readme_generator/blob/master/code/text_summarization/G-EVAL_testcode.ipynb)|
