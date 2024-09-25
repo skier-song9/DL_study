@@ -11,6 +11,8 @@ This repository is for recording Deep Learning paper studies with code reviews.
 |[Text clustering with LLM embeddings](https://arxiv.org/abs/2403.15112)|[tistory](https://song9ski-program.tistory.com/entry/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-Text-clustering-with-LLM-embeddings)|-|
 |[G-EVAL: NLG Evaluation using GPT-4 with Better Human Alignment](https://arxiv.org/abs/2303.16634)|[tistory](https://song9ski-program.tistory.com/entry/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-G-EVAL-NLG-Evaluation-using-GPT-4-with-Better-Human-Alignment)|[프로젝트 코드](https://github.com/skier-song9/bitamin_auto_readme_generator/blob/master/code/text_summarization/G-EVAL_testcode.ipynb)|
 |[Retrieval-Augmented Generation for Knowledge-Intensive NLP tasks](https://arxiv.org/abs/2005.11401)|[tistory](https://song9ski-program.tistory.com/entry/%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0-RAG-Retrieval-Augmented-Generation-for-Knowledge-Intensive-NLP-tasks)|-|
+| [RAGAs: Automated Evaluation of Retrieval Augmented Generation](https://arxiv.org/abs/2309.15217) | [tistory](https://song9ski-program.tistory.com/entry/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-RAGAs-Automated-Evaluation-of-Retrieval-Augmented-Generation) | - |
+| [Evaluation of RAG Metrics for Question Answering in the Telecom Domain](https://arxiv.org/abs/2407.12873) | [tistory](https://song9ski-program.tistory.com/entry/%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0-Evaluation-of-RAG-Metrics-for-Question-Answering-in-the-Telecom-Domain#4.%20Result%20and%20Discussion-1) | - |
 
 ### Time Series
 |Paper|blog|code|
