@@ -1,6 +1,7 @@
 # 🫡Welcome
 
-This repository is now updated on [Notion - Papers with Notero](https://skier-song9.notion.site/1b5c8d3f60f581c6a81ee50b5537ed2e?v=1b5c8d3f60f5812b9a10000c75775d05&pvs=4)! (2025.03)
+The Paper Review is now updated on [Notion - Papers with Notero](https://skier-song9.notion.site/1b5c8d3f60f581c6a81ee50b5537ed2e?v=1b5c8d3f60f5812b9a10000c75775d05&pvs=4)! (2025.03)
+The Code Review is still updated on this repository in [here](https://github.com/skier-song9/DL_study/tree/master/codes).
 
 # 📚Study
 ### NLP
